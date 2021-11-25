@@ -98,7 +98,8 @@
 * 禁止在未备案的情况下，私自使用（包含自用与商用）
 
 ### 技术交流与商务支持
-![输入图片说明](image.png)
+![image](https://user-images.githubusercontent.com/94048608/143430431-cfc480f0-7b38-46cc-8e44-6e6e2d27092f.png)
+
 
 ### 版本规划：
 V1.5
